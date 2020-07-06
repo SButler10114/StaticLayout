@@ -1,0 +1,44 @@
+/* style.css */
+#SiteName {
+    color: red;
+   }
+   
+   
+   #SignIn {
+     position: absolute;
+     top: 80px;
+     right: 0;
+     width: 200px;
+     height: 100px;
+     background-color: black;
+     color: black;
+   }
+   .button {
+       background:#e50914;
+       color: #fff;
+       padding: 0.4rem 1.3rem;
+       font-size: 1rem;
+       text-align: center;
+       border: none;
+       border-radius: 2px;
+   }
+   
+   .button-rounded {
+       border-radius: 5px;
+   }
+   #Content1 {
+     color: White;
+     background: black;
+     border-bottom: 8px solid grey;
+   }
+   #Content2 {
+    color: White;
+    background: black;
+    border-bottom: 8px solid grey;
+  }
+  #Content3 {
+    color: White;
+    background: black;
+    border-bottom: 8px solid grey;
+  }
+   
